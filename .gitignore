@@ -1,0 +1,5 @@
+.vs/
+receiver/.vs/
+sender/.vs/
+receiver/WifiBenchmark/Debug
+sender/WifiBenchmark/Debug
